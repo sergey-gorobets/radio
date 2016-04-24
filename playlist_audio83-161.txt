@@ -6,8 +6,9 @@
 {"comment":"KISS FM 2.0 Trance","file":"http://online-kissfm.tavrmedia.ua/KissFM_trance"}]},
 
 {"comment":"Radio Record","playlist":[
-{"comment":"Radio Record","file":"http://92.53.112.250:8101/rr_128"},
-{"comment":"Trancemission Radio","file":"http://92.53.112.250:8102/tm_128"}]},
+{"comment":"Radio Record","file":"http://air2.radiorecord.ru:805/rr_320"},
+{"comment":"Record deep","file":"http://air2.radiorecord.ru:805/deep_320"},
+{"comment":"Trancemission Radio","file":"http://air2.radiorecord.ru:805/tm_320"}]},
 
 {"comment":"DI.FM","playlist":[ 
 {"comment":"Trance Channel DI.FM","file":"http://pub4.di.fm:80/di_trance"},
