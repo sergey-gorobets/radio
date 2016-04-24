@@ -64,7 +64,6 @@
 {"comment":">Deep","playlist":[
 {"comment":"Radio Monte Carlo 105.9 FM","file":"http://185.39.195.90:8000/montecarlo_128"},
 {"comment":"HouseNationUK.com","file":"http://a10.streamgb.com:8006/;stream.nsv"},
-{"comment":"Deepinradio.com","file":"http://77.92.76.134:8525/;stream.nsv"},
 {"comment":"Soulful Web Station","file":"http://listen.radionomy.com/soulful-web-station?d=YWQ9cmFkaW9ubzUmcmVmZXJlcj1odHRwJTNBJTJGJTJGc291bGZ1bC13ZWItc3RhdGlvbi5wbGF5dGhlcmFkaW8uY29tJTJG"},
 {"comment":"deepmix.ru","file":"http://85.21.79.31:7128/;stream.nsv"},
 {"comment":"Deep House.fr","file":"http://streaming.radionomy.com/DeepHouse?lang=ru-RU%2cru%3bq%3d0.8%2cen-US%3bq%3d0.6%2cen%3bq%3d0.4%2cuk%3bq%3d0.2"},
