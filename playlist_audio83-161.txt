@@ -1,12 +1,12 @@
 {"playlist":[
-{"comment":"KISS FM","playlist":[
+{"comment":">KISS FM","playlist":[
 {"comment":"KISS FM","file":"http://online-kissfm.tavrmedia.ua/KissFM"},
 {"comment":"KISS FM 2.0 Deep","file":"http://online-kissfm.tavrmedia.ua/KissFM_deep"},
 {"comment":"KISS FM 2.0 Digital","file":"http://online-kissfm.tavrmedia.ua/KissFM_digital"},
 {"comment":"KISS FM 2.0 Trance","file":"http://online-kissfm.tavrmedia.ua/KissFM_trance"},
 {"comment":"Kiss FM 2.0 DnB","file":"http://online-kissfm.tavrmedia.ua/KissFM_dnb"}]},
 
-{"comment":"Radio Record","playlist":[
+{"comment":">Radio Record","playlist":[
 {"comment":"Radio Record","file":"http://air2.radiorecord.ru:805/rr_320"},
 {"comment":"Record Deep","file":"http://air2.radiorecord.ru:805/deep_320"},
 {"comment":"Trancemission","file":"http://air2.radiorecord.ru:805/tm_320"},
@@ -16,7 +16,7 @@
 {"comment":"Pirate Station","file":"http://air2.radiorecord.ru:805/ps_320"},
 {"comment":"Record Dubstep","file":"http://air2.radiorecord.ru:805/dub_320"}]},
 
-{"comment":"DI.FM","playlist":[ 
+{"comment":">DI.FM","playlist":[ 
 {"comment":"Trance","file":"http://prem2.di.fm:80/trance_hi?6008e6a39cecc70938367d13"},
 {"comment":"Vocal Trance","file":"http://prem2.di.fm:80/vocaltrance_hi?dfd861639f4b4aebb90864bc"},
 {"comment":"Classic Vocal Trance","file":"http://prem2.di.fm:80/classicvocaltrance_hi?dfd861639f4b4aebb90864bc"},
@@ -46,17 +46,17 @@
 {"comment":"Electro House","file":"http://prem2.di.fm:80/electrohouse_hi?dfd861639f4b4aebb90864bc"},
 {"comment":"Jazz House","file":"http://prem2.di.fm:80/jazzhouse_hi?dfd861639f4b4aebb90864bc"}]},
 
-{"comment":"Pure.FM","playlist":[ 
+{"comment":">Pure.FM","playlist":[ 
 {"comment":"Pure.FM Progressive","file":"http://212.7.196.96:8000/;stream.nsv"},
 {"comment":"Pure.FM Deep House","file":"http://212.7.196.96:8002/;stream.nsv"},
 {"comment":"Pure.FM Trance","file":"http://212.7.196.96:8010/;stream.nsv"}]},
 
-{"comment":"ETN.fm","playlist":[
+{"comment":">ETN.fm","playlist":[
 {"comment":"Trance Channel","file":"http://193.35.52.62:8111/;stream.nsv"},
 {"comment":"D&B Channel","file":"http://omega.etn.fm:9300/dnb-mp3-320"},
 {"comment":"House Channel","file":"http://24.249.116.122:8000/ch2-256mp3"}]},
 
-{"comment":"FRISKY Radio","playlist":[
+{"comment":">FRISKY Radio","playlist":[
 {"comment":"FRISKY","file":"http://stream.friskyradio.com:9000/frisky_mp3_hi"},
 {"comment":"FRISKY Deep","file":"http://deep.friskyradio.com/friskydeep_aachi"},
 {"comment":"FRISKY Chill","file":"http://chill.friskyradio.com/friskychill_mp3_high"}]},
@@ -64,7 +64,6 @@
 {"comment":"Dogglounge Radio","file":"http://master.dogglounge.com:9128/;stream.nsv"},
 {"comment":"Deepinradio.com","file":"http://77.92.76.134:8525/;stream.nsv"},
 {"comment":"Proton Radio","file":"http://67.222.104.211:8000/"},
-{"comment":"RTS.FM","file":"http://85.192.36.69:8192/stream/1/"},
 {"comment":"DJFM","file":"http://media.brg.ua:8010/;stream.nsv"},
 {"comment":"Ibiza Sonica Radio","file":"http://s1.sonicabroadcast.com:7005/;stream.nsv"},
 {"comment":"Blue Marlin Ibiza","file":"http://s3.viastreaming.net:8635/;stream.nsv"}
