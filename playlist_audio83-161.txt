@@ -16,7 +16,7 @@
 {"comment":"Record Dubstep","file":"http://air2.radiorecord.ru:805/dub_320"}]},
 
 {"comment":"DI.FM","playlist":[ 
-{"comment":"Trance Channel DI.FM","file":"http://prem2.di.fm:80/trance_hi?6008e6a39cecc70938367d13?type=.flv"},
+{"comment":"Trance Channel DI.FM","file":"http://prem2.di.fm:80/trance_hi?6008e6a39cecc70938367d13"},
 {"comment":"Progressive DI.FM","file":"http://pub3.di.fm:80/di_progressive"},
 {"comment":"Club Sounds DI.FM","file":"http://pub4.di.fm:80/di_clubsounds"},
 {"comment":"Tech House DI.FM","file":"http://pub3.di.fm:80/di_techhouse"},
