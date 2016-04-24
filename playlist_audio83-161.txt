@@ -61,6 +61,19 @@
 {"comment":"FRISKY Deep","file":"http://deep.friskyradio.com/friskydeep_aachi"},
 {"comment":"FRISKY Chill","file":"http://chill.friskyradio.com/friskychill_mp3_high"}]},
 
+{"comment":">Deep","playlist":[
+{"comment":"Deep Mix Moscow Radio: deepmix.ru","file":"http://85.21.79.31:7128/;stream.nsv"},
+{"comment":"Deep House.fr","file":"http://streaming.radionomy.com/DeepHouse?lang=ru-RU%2cru%3bq%3d0.8%2cen-US%3bq%3d0.6%2cen%3bq%3d0.4%2cuk%3bq%3d0.2"},
+{"comment":"house-radio.com","file":"http://stream.house-radio.com:8000/main"},
+{"comment":"ibizaliveradio.com","file":"http://198.105.220.12:9623/Live"},
+{"comment":"Deepinradio.com","file":"http://77.92.76.134:8525/;stream.nsv"},
+{"comment":"Soulful Web Station","file":"http://listen.radionomy.com/soulful-web-station?d=YWQ9cmFkaW9ubzUmcmVmZXJlcj1odHRwJTNBJTJGJTJGc291bGZ1bC13ZWItc3RhdGlvbi5wbGF5dGhlcmFkaW8uY29tJTJG"},
+{"comment":"deephouse-radio.com: deepmix.ru","file":"http://162.13.25.174/k203n4mmb"},
+{"comment":"HouseNationUK.com Radio","file":"http://a10.streamgb.com:8006/;stream.nsv"},
+{"comment":"Radio Monte Carlo 105.9 FM","file":"http://185.39.195.90:8000/montecarlo_128"},
+{"comment":"Platinum Radio London","file":"http://91.121.78.191:8008/stream/"},
+{"comment":"House Music Radio - Manchester","file":"http://94.23.3.95:8000/;stream.nsv"}]},
+
 {"comment":"Dogglounge Radio","file":"http://master.dogglounge.com:9128/;stream.nsv"},
 {"comment":"Deepinradio.com","file":"http://77.92.76.134:8525/;stream.nsv"},
 {"comment":"Proton Radio","file":"http://67.222.104.211:8000/"},
