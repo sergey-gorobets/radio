@@ -63,7 +63,7 @@
 
 {"comment":">Deep","playlist":[
 {"comment":"Radio Monte Carlo 105.9 FM","file":"http://185.39.195.90:8000/montecarlo_128"},
-{"comment":"HouseNationUK.com Radio","file":"http://a10.streamgb.com:8006/;stream.nsv"},
+{"comment":"HouseNationUK.com","file":"http://a10.streamgb.com:8006/;stream.nsv"},
 {"comment":"Deepinradio.com","file":"http://77.92.76.134:8525/;stream.nsv"},
 {"comment":"Soulful Web Station","file":"http://listen.radionomy.com/soulful-web-station?d=YWQ9cmFkaW9ubzUmcmVmZXJlcj1odHRwJTNBJTJGJTJGc291bGZ1bC13ZWItc3RhdGlvbi5wbGF5dGhlcmFkaW8uY29tJTJG"},
 {"comment":"deepmix.ru","file":"http://85.21.79.31:7128/;stream.nsv"},
@@ -72,7 +72,7 @@
 {"comment":"ibizaliveradio.com","file":"http://198.105.220.12:9623/Live"},
 {"comment":"deephouse-radio.com","file":"http://162.13.25.174/k203n4mmb"},
 {"comment":"Platinum Radio London","file":"http://91.121.78.191:8008/stream/"},
-{"comment":"House Music Radio Manchester","file":"http://94.23.3.95:8000/;stream.nsv"}]},
+{"comment":"House music radio Manchester","file":"http://94.23.3.95:8000/;stream.nsv"}]},
 
 {"comment":"Dogglounge Radio","file":"http://master.dogglounge.com:9128/;stream.nsv"},
 {"comment":"Deepinradio.com","file":"http://77.92.76.134:8525/;stream.nsv"},
