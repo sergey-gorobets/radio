@@ -1,0 +1,50 @@
+{"playlist":[
+{"comment":"KISS FM","playlist":[
+{"comment":"KISS FM","file":"http://online-kissfm.tavrmedia.ua/KissFM"},
+{"comment":"KISS FM 2.0 Deep","file":"http://online-kissfm.tavrmedia.ua/KissFM_deep"},
+{"comment":"KISS FM 2.0 Digital","file":"http://online-kissfm.tavrmedia.ua/KissFM_digital"},
+{"comment":"KISS FM 2.0 Trance","file":"http://online-kissfm.tavrmedia.ua/KissFM_trance"}]},
+
+{"comment":"Radio Record","playlist":[
+{"comment":"Radio Record","file":"http://92.53.112.250:8101/rr_128"},
+{"comment":"Trancemission Radio","file":"http://92.53.112.250:8102/tm_128"}]},
+
+{"comment":"DI.FM","playlist":[ 
+{"comment":"Trance Channel DI.FM","file":"http://pub4.di.fm:80/di_trance"},
+{"comment":"Progressive DI.FM","file":"http://pub3.di.fm:80/di_progressive"},
+{"comment":"Club Sounds DI.FM","file":"http://pub4.di.fm:80/di_clubsounds"},
+{"comment":"Tech House DI.FM","file":"http://pub3.di.fm:80/di_techhouse"},
+{"comment":"Deep Tech DI.FM","file":"http://pub3.di.fm:80/di_deeptech"},
+{"comment":"DJ Mixes DI.FM","file":"http://pub4.di.fm:80/di_djmixes"},
+{"comment":"Drum 'n' Bass DI.FM","file":"http://pub2.di.fm:80/di_drumandbass"},
+{"comment":"Soulful House DI.FM","file":"http://pub4.di.fm:80/di_soulfulhouse"},
+{"comment":"Electro House DI.FM","file":"http://pub3.di.fm:80/di_electrohouse"},
+{"comment":"Vocal Trance DI.FM","file":"http://pub3.di.fm:80/di_vocaltrance"},
+{"comment":"Minimal DI.FM","file":"http://pub4.di.fm:80/di_minimal"},
+{"comment":"Techno DI.FM","file":"http://pub4.di.fm:80/di_techno"}]},
+
+{"comment":"Pure.FM","playlist":[ 
+{"comment":"Pure.FM Progressive","file":"http://212.7.196.96:8000/;stream.nsv"},
+{"comment":"Pure.FM Deep House","file":"http://212.7.196.96:8002/;stream.nsv"},
+{"comment":"Pure.FM Trance","file":"http://212.7.196.96:8010/;stream.nsv"}]},
+
+{"comment":"ETN.fm","playlist":[
+{"comment":"Trance Channel","file":"http://193.35.52.62:8111/;stream.nsv"},
+{"comment":"House Channel","file":"http://24.249.116.122:8000/ch2-128mp3"}]},
+
+{"comment":"FRISKY Radio","playlist":[
+{"comment":"FRISKY","file":"http://stream.friskyradio.com:9000/frisky_mp3_hi"},
+{"comment":"FRISKY Chill","file":"http://chill.friskyradio.com/friskychill_mp3_high"}]},
+
+{"comment":"Dogglounge Radio","file":"http://dl4.mixcache.com:8000/;stream.nsv"},
+{"comment":"Deepinradio.com","file":"http://159.253.145.177:8525/;stream.nsv"},
+{"comment":"Proton Radio","file":"http://67.222.104.211:8000/"},
+{"comment":"RTS.FM","file":"http://85.192.36.69:8192/stream/1/"},
+{"comment":"kaZantip FM","file":"http://radio.kazantip-fm.ru:8000/mp3"},
+{"comment":"DJFM","file":"http://media.brg.ua:8010/;stream.nsv"},
+{"comment":"The Key Radio","file":"http://159.253.145.177:8665/;stream.nsv"},
+{"comment":"Ibiza Sonica Radio","file":"http://159.253.145.178:7005/;stream.nsv"},
+{"comment":"Blue Marlin Ibiza","file":"http://s3.viastreaming.net:8635/;stream.nsv"}
+]}
+
+
