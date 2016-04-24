@@ -7,8 +7,13 @@
 
 {"comment":"Radio Record","playlist":[
 {"comment":"Radio Record","file":"http://air2.radiorecord.ru:805/rr_320"},
-{"comment":"Record deep","file":"http://air2.radiorecord.ru:805/deep_320"},
-{"comment":"Trancemission Radio","file":"http://air2.radiorecord.ru:805/tm_320"}]},
+{"comment":"Record Deep","file":"http://air2.radiorecord.ru:805/deep_320"},
+{"comment":"Record Club","file":"http://air2.radiorecord.ru:805/club_320"},
+{"comment":"Record Chill-out","file":"http://air2.radiorecord.ru:805/chil_320"},
+{"comment":"Vip Mix","file":"http://air2.radiorecord.ru:805/vip_320"},
+{"comment":"Pirate Station","file":"http://air2.radiorecord.ru:805/ps_320"},
+{"comment":"Record Dubstep","file":"http://air2.radiorecord.ru:805/dub_320"},
+{"comment":"Trancemission","file":"http://air2.radiorecord.ru:805/tm_320"}]},
 
 {"comment":"DI.FM","playlist":[ 
 {"comment":"Trance Channel DI.FM","file":"http://pub4.di.fm:80/di_trance"},
