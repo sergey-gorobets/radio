@@ -17,7 +17,7 @@
 {"comment":"Record Dubstep","file":"http://air2.radiorecord.ru:805/dub_320"}]},
 
 {"comment":">DI.FM","playlist":[ 
-{"comment":"Deep House DI.FM","file":"http://pub1.diforfree.org:8000/di_deephouse_hi"},
+{"comment":"Deep House DI.FM","file":"http://pub1.diforfree.org:8000/di_deephouse_hi/;stream.nsv"},
 {"comment":"Progressive DI.FM","file":"http://prem2.di.fm:80/progressive_hi?074e915fc563eb46afb4b5b8"},
 {"comment":"Melodic Progressive DI.FM","file":"http://prem2.di.fm:80/melodicprogressive_hi?074e915fc563eb46afb4b5b8"},
 {"comment":"Trance DI.FM","file":"http://prem2.di.fm:80/trance_hi?6008e6a39cecc70938367d13"},
