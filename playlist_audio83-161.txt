@@ -1,7 +1,7 @@
 {"playlist":[
 {"comment":">KISS FM","playlist":[
 {"comment":"KISS FM","file":"http://online-kissfm.tavrmedia.ua/KissFM"},
-{"comment":"KISS FM 2.0 Deep","file":"http://online-kissfm.tavrmedia.ua/KissFM_deep?type=.mpeg"},
+{"comment":"KISS FM 2.0 Deep","file":"http://online-kissfm.tavrmedia.ua/KissFM_deep"},
 {"comment":"KISS FM 2.0 Digital","file":"http://online-kissfm.tavrmedia.ua/KissFM_digital"},
 {"comment":"KISS FM 2.0 Trance","file":"http://online-kissfm.tavrmedia.ua/KissFM_trance"},
 {"comment":"Kiss FM 2.0 DnB","file":"http://online-kissfm.tavrmedia.ua/KissFM_dnb"}]},
@@ -24,7 +24,6 @@
 {"comment":"Classic Vocal Trance DI.FM","file":"http://pub1.diforfree.org:8000/di_classicvocaltrance_hi?type=.flv"},
 {"comment":"Soulful House DI.FM","file":"http://pub1.diforfree.org:8000/di_soulfulhouse_hi?type=.flv"},
 {"comment":"Breaks DI.FM","file":"http://pub1.diforfree.org:8000/di_breaks_hi?type=.flv"},
-{"comment":"Club Sounds DI.FM","file":"http://pub1.diforfree.org:8000/di_clubsounds_hi?type=.flv"},
 {"comment":"Tech House DI.FM","file":"http://pub1.diforfree.org:8000/di_techhouse_hi?type=.flv"},
 {"comment":"Deep Tech DI.FM","file":"http://pub1.diforfree.org:8000/di_deeptech_hi?type=.flv"},
 {"comment":"Lounge DI.FM","file":"http://pub1.diforfree.org:8000/di_lounge_hi?type=.flv"},
@@ -40,6 +39,7 @@
 {"comment":"Funky House DI.FM","file":"http://pub1.diforfree.org:8000/di_funkyhouse_hi?type=.flv"},
 {"comment":"House DI.FM","file":"http://pub1.diforfree.org:8000/di_house_hi?type=.flv"},
 {"comment":"Electro House DI.FM","file":"http://pub1.diforfree.org:8000/di_electrohouse_hi?type=.flv"},
+{"comment":"Club Sounds DI.FM","file":"http://pub1.diforfree.org:8000/di_clubsounds_hi?type=.flv"},
 {"comment":"Vocal Lounge DI.FM","file":"http://prem2.di.fm:80/vocallounge_hi?074e915fc563eb46afb4b5b8"},
 {"comment":"Underground Techno DI.FM","file":"http://prem2.di.fm:80/undergroundtechno_hi?074e915fc563eb46afb4b5b8"},
 {"comment":"Chill & Tropical House DI.FM","file":"http://prem2.di.fm:80/chillntropicalhouse_hi?074e915fc563eb46afb4b5b8"},
@@ -54,7 +54,7 @@
 {"comment":">ETN.fm","playlist":[
 {"comment":"Trance Channel ETN.fm","file":"http://193.35.52.62:8111/;stream.nsv"},
 {"comment":"D&B Channel ETN.fm","file":"http://omega.etn.fm:9300/dnb-mp3-320"},
-{"comment":"House Channel ETN.fm","file":"http://24.249.116.122:8000/ch2-256mp3"}]},
+{"comment":"House Channel ETN.fm","file":"http://www.etn.fm:8200/house-mp3-320"}]},
 
 {"comment":">FRISKY Radio","playlist":[
 {"comment":"FRISKY","file":"http://stream.friskyradio.com:9000/frisky_mp3_hi"},
