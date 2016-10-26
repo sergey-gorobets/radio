@@ -39,12 +39,7 @@
 {"comment":"Funky House DI.FM","file":"http://pub1.diforfree.org:8000/di_funkyhouse_hi?type=.flv"},
 {"comment":"House DI.FM","file":"http://pub1.diforfree.org:8000/di_house_hi?type=.flv"},
 {"comment":"Electro House DI.FM","file":"http://pub1.diforfree.org:8000/di_electrohouse_hi?type=.flv"},
-{"comment":"Club Sounds DI.FM","file":"http://pub1.diforfree.org:8000/di_clubsounds_hi?type=.flv"},
-{"comment":"Vocal Lounge DI.FM","file":"http://prem2.di.fm:80/vocallounge_hi?074e915fc563eb46afb4b5b8"},
-{"comment":"Underground Techno DI.FM","file":"http://prem2.di.fm:80/undergroundtechno_hi?074e915fc563eb46afb4b5b8"},
-{"comment":"Chill & Tropical House DI.FM","file":"http://prem2.di.fm:80/chillntropicalhouse_hi?074e915fc563eb46afb4b5b8"},
-{"comment":"Melodic Progressive DI.FM","file":"http://prem2.di.fm:80/melodicprogressive_hi?074e915fc563eb46afb4b5b8"},
-{"comment":"Jazz House DI.FM","file":"http://prem2.di.fm:80/jazzhouse_hi?074e915fc563eb46afb4b5b8"}]},
+{"comment":"Club Sounds DI.FM","file":"http://pub1.diforfree.org:8000/di_clubsounds_hi?type=.flv"}]},
 
 {"comment":">Pure.FM","playlist":[ 
 {"comment":"Pure.FM Progressive","file":"http://212.7.196.96:8000/;stream.nsv"},
@@ -64,14 +59,12 @@
 {"comment":">Deep","playlist":[
 {"comment":"Radio Monte Carlo 105.9 FM","file":"http://185.39.195.90:8000/montecarlo_128"},
 {"comment":"HouseNationUK.com","file":"http://a10.streamgb.com:8006/;stream.nsv"},
-{"comment":"Soulful Web Station","file":"http://listen.radionomy.com/soulful-web-station?d=YWQ9cmFkaW9ubzUmcmVmZXJlcj1odHRwJTNBJTJGJTJGc291bGZ1bC13ZWItc3RhdGlvbi5wbGF5dGhlcmFkaW8uY29tJTJG"},
 {"comment":"deepmix.ru","file":"http://85.21.79.31:7128/;stream.nsv"},
 {"comment":"Deep House.fr","file":"http://streaming.radionomy.com/DeepHouse?lang=ru-RU%2cru%3bq%3d0.8%2cen-US%3bq%3d0.6%2cen%3bq%3d0.4%2cuk%3bq%3d0.2"},
 {"comment":"house-radio.com","file":"http://stream.house-radio.com:8000/main"},
 {"comment":"ibizaliveradio.com","file":"http://198.105.220.12:9623/Live"},
 {"comment":"deephouse-radio.com","file":"http://162.13.25.174/k203n4mmb"},
-{"comment":"Platinum Radio London","file":"http://91.121.78.191:8008/stream/"},
-{"comment":"House music radio Manchester","file":"http://94.23.3.95:8000/;stream.nsv"}]},
+{"comment":"Platinum Radio London","file":"http://91.121.78.191:8008/stream/"}]},
 
 {"comment":"Dogglounge Radio","file":"http://master.dogglounge.com:9128/;stream.nsv"},
 {"comment":"Deepinradio.com","file":"http://77.92.76.134:8525/;stream.nsv"},
