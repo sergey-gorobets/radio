@@ -67,7 +67,7 @@
 {"comment":"Platinum Radio London","file":"http://91.121.78.191:8008/stream/"}]},
 
 {"comment":"Dogglounge Radio","file":"http://master.dogglounge.com:9128/;stream.nsv"},
-{"comment":"HOT 97","file":"http://18073.live.streamtheworld.com:80/WQHTFMAAC_SC?type=.flv"},
+{"comment":"HOT 97","file":"http://18073.live.streamtheworld.com:80/WQHTFMAAC_SC"},
 {"comment":"Deepinradio.com","file":"http://77.92.76.134:8525/;stream.nsv"},
 {"comment":"Proton Radio","file":"http://67.222.104.211:8000/"},
 {"comment":"DJFM","file":"http://media.brg.ua:8010/;stream.nsv"},
