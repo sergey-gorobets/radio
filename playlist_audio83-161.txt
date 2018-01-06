@@ -1,7 +1,7 @@
 {"playlist":[
 {"comment":">KISS FM","playlist":[
 {"comment":"KISS FM","file":"http://online-kissfm.tavrmedia.ua/KissFM"},
-{"comment":"KISS FM 2.0 Deep","file":"http://online-kissfm.tavrmedia.ua/KissFM_deep"},
+{"comment":"KISS FM 2.0 Deep","file":"http://online-kissfm2.tavrmedia.ua/KissFM_Deep"},
 {"comment":"KISS FM 2.0 Digital","file":"http://online-kissfm.tavrmedia.ua/KissFM_digital"},
 {"comment":"KISS FM 2.0 Trance","file":"http://online-kissfm.tavrmedia.ua/KissFM_trance"},
 {"comment":"Kiss FM 2.0 DnB","file":"http://online-kissfm.tavrmedia.ua/KissFM_dnb"}]},
